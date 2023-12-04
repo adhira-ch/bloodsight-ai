@@ -1,0 +1,49 @@
+<div class="space-y-4 p-4">
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Blood Health:</h2>
+        <p>All parameters within optimal range.</p>
+    </div>
+
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Lipid Profile:</h2>
+        <p>Cholesterol, Your Result: 220 mg/dL, Optimal Range: less than 200 mg/dL</p>
+        <p>HDL Cholesterol, Your Result: 45 mg/dL, Optimal Range: greater than 50 mg/dL for females</p>
+        <p>LDL Cholesterol, Your Result: 150 mg/dL, Optimal Range: less than 100 mg/dL</p>
+        <p>Triglycerides, Your Result: 250 mg/dL, Optimal Range: less than 150 mg/dL</p>
+    </div>
+
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Kidney Profile:</h2>
+        <p>All parameters within optimal range.</p>
+    </div>
+
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Electrolyte Profile:</h2>
+        <p>All parameters within optimal range.</p>
+    </div>
+
+    <div class="p-4 rounded bg-yellow-200">
+        <h2 class="font-bold mb-2">Vitamin Profile:</h2>
+        <p>Vitamin parameters have not been measured.</p>
+    </div>
+
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Thyroid Health:</h2>
+        <p>All parameters within optimal range.</p>
+    </div>
+
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Diabetes Monitoring:</h2>
+        <p>All parameters within optimal range.</p>
+    </div>
+
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Liver Profile:</h2>
+        <p>All parameters within optimal range.</p>
+    </div>
+
+    <div class="p-4 rounded bg-red-200">
+        <h2 class="font-bold mb-2">Anemia Profile:</h2>
+        <p>All parameters within optimal range.</p>
+    </div>
+</div>

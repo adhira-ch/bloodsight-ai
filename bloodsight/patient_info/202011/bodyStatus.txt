@@ -1,0 +1,58 @@
+<div class="space-y-4 p-4">
+    <!-- Blood Health -->
+    <div class="p-4 rounded bg-red-200">
+        <h2 class="font-bold mb-2">Blood Health:</h2>
+        <p>Hemoglobin: Your Result: 11.0 g/dL, Optimal Range: 12.0 - 16.0 g/dL for females</p>
+        <p>Hematocrit: Your Result: 34%, Optimal Range: 37% - 47% for females</p>
+        <p>All other parameters within the complete blood count are within normal range.</p>
+    </div>
+
+    <!-- Lipid Profile -->
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Lipid Profile:</h2>
+        <p>All parameters within normal range.</p>
+    </div>
+
+    <!-- Kidney Profile -->
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Kidney Profile (via Basic Metabolic Panel):</h2>
+        <p>All parameters within normal range.</p>
+    </div>
+
+    <!-- Electrolyte Profile -->
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Electrolyte Profile (also via Basic Metabolic Panel):</h2>
+        <p>All parameters within normal range.</p>
+    </div>
+
+    <!-- Vitamin Profile -->
+    <div class="p-4 rounded bg-yellow-200">
+        <h2 class="font-bold mb-2">Vitamin Profile:</h2>
+        <p>Parameters have not been measured.</p>
+    </div>
+
+    <!-- Thyroid Health -->
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Thyroid Health (via Thyroid Panel):</h2>
+        <p>All parameters within normal range.</p>
+    </div>
+
+    <!-- Diabetes Monitoring -->
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Diabetes Monitoring (via Basic Metabolic Panel's Glucose measure):</h2>
+        <p>All parameters within normal range.</p>
+    </div>
+
+    <!-- Liver Profile -->
+    <div class="p-4 rounded bg-green-200">
+        <h2 class="font-bold mb-2">Liver Profile (via Comprehensive Metabolic Panel):</h2>
+        <p>All parameters within normal range.</p>
+    </div>
+
+    <!-- Anemia Profile -->
+    <div class="p-4 rounded bg-red-200">
+        <h2 class="font-bold mb-2">Anemia Profile:</h2>
+        <p>Already represented under Hemoglobin and Hematocrit parameters within the Blood Health. Hemoglobin and Hematocrit are both lower than the optimal range, indicating potential anemia.</p>
+    </div>
+
+</div>

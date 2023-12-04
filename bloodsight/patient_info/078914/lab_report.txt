@@ -1,0 +1,240 @@
+Patient
+Information:
+N a m e :
+J a n e
+D o e
+A g e :
+2 5
+y e a r s
+G e n d e r :
+F e m a l e
+D e s c e n t :
+A f r i c a n
+A m e r i c a n
+D a t e :
+1 0 / 2 0 / 2 0 2 3
+Lab
+Test
+Results:
+Complete
+Blood
+Count
+(CBC):
+W h i t e
+B l o o d
+C e l l
+C o u n t :
+6 . 0
+T h o u s a n d / u L
+( R e f e r e n c e :
+4 . 5 - 1 1 . 0
+T h o u s a n d / u L )
+R e d
+B l o o d
+C e l l
+C o u n t :
+4 . 5
+M i l l i o n / u L
+( R e f e r e n c e :
+3 . 8 - 5 . 2
+M i l l i o n / u L )
+H e m o g l o b i n :
+1 3 . 5
+g / d L
+( R e f e r e n c e :
+1 2 . 0 - 1 6 . 0
+g / d L
+f o r
+f e m a l e s )
+H e m a t o c r i t :
+4 0 %
+( R e f e r e n c e :
+3 7 % - 4 7 %
+f o r
+f e m a l e s )
+M C V :
+8 9
+f L
+( R e f e r e n c e :
+8 0 - 1 0 0
+f L )
+M C H :
+3 0
+p g
+( R e f e r e n c e :
+2 7 - 3 2
+p g )
+M C H C :
+3 3 . 8
+g / d L
+( R e f e r e n c e :
+3 2 - 3 6
+g / d L )
+R D W :
+1 3 %
+( R e f e r e n c e :
+1 1 . 5 - 1 4 . 5 % )
+P l a t e l e t
+C o u n t :
+2 3 0
+T h o u s a n d / u L
+( R e f e r e n c e :
+1 5 0 - 4 0 0
+T h o u s a n d / u L )
+Basic
+Metabolic
+Panel
+(BMP):
+G l u c o s e :
+8 5
+m g / d L
+( R e f e r e n c e :
+6 5 - 9 9
+m g / d L )
+C a l c i u m :
+9 . 6
+m g / d L
+( R e f e r e n c e :
+8 . 6 - 1 0 . 2
+m g / d L )
+S o d i u m :
+1 4 0
+m E q / L
+( R e f e r e n c e :
+1 3 5 - 1 4 5
+m E q / L )
+P o t a s s i u m :
+4 . 2
+m E q / L
+( R e f e r e n c e :
+3 . 5 - 5 . 1
+m E q / L )
+B i c a r b o n a t e :
+2 4
+m E q / L
+( R e f e r e n c e :
+2 2 - 2 9
+m E q / L )
+C h l o r i d e :
+1 0 2
+m E q / L
+( R e f e r e n c e :
+9 8 - 1 0 7
+m E q / L )
+B U N
+( B l o o d
+U r e a
+N i t r o g e n ) :
+1 4
+m g / d L
+( R e f e r e n c e :
+6 - 2 0
+m g / d L )
+C r e a t i n i n e :
+0 . 9
+m g / d L
+( R e f e r e n c e :
+0 . 6 - 1 . 1
+m g / d L
+f o r
+f e m a l e s )
+Lipid
+Panel:
+C h o l e s t e r o l ,
+T o t a l :
+2 2 0
+m g / d L
+( H i g h
+-
+R e f e r e n c e :
+< 2 0 0
+m g / d L )
+H D L
+C h o l e s t e r o l :
+4 5
+m g / d L
+( L o w e r
+l i m i t
+o f
+n o r m a l
+-
+R e f e r e n c e :
+> 5 0
+m g / d L
+f o r
+f e m a l e s )
+L D L
+C h o l e s t e r o l :
+1 5 0
+m g / d L
+( H i g h
+-
+R e f e r e n c e :
+< 1 0 0
+m g / d L )
+T r i g l y c e r i d e s :
+2 5 0
+m g / d L
+( H i g h
+-
+R e f e r e n c e :
+< 1 5 0
+m g / d L )
+Thyroid
+Panel:
+T S H :
+2 . 0
+m I U / L
+( R e f e r e n c e :
+0 . 4 - 4 . 0
+m I U / L )
+F r e e
+T 4 :
+1 . 1
+n g / d L
+( R e f e r e n c e :
+0 . 9 - 1 . 7
+n g / d L )
+Comprehensive
+Metabolic
+Panel
+(CMP):
+A l b u m i n :
+4 . 7
+g / d L
+( R e f e r e n c e :
+3 . 4 - 5 . 4
+g / d L )
+T o t a l
+P r o t e i n :
+7 . 4
+g / d L
+( R e f e r e n c e :
+6 . 0 - 8 . 3
+g / d L )
+B i l i r u b i n :
+0 . 4
+m g / d L
+( R e f e r e n c e :
+0 . 1 - 1 . 2
+m g / d L )
+A l k a l i n e
+P h o s p h a t a s e :
+7 5
+I U / L
+( R e f e r e n c e :
+3 9 - 1 1 7
+I U / L )A S T
+( S G O T ) :
+2 0
+I U / L
+( R e f e r e n c e :
+1 0 - 3 0
+I U / L )
+A L T
+( S G P T ) :
+2 5
+I U / L
+( R e f e r e n c e :
+1 0 - 3 5
+I U / L )

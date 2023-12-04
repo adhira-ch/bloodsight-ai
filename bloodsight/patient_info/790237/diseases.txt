@@ -1,0 +1,36 @@
+<div class="space-y-4 p-2">
+    <div class="rounded bg-red-200">
+        <h2 class="font-bold mb-2">Disease 1 - Diabetes Mellitus, Type 2:</h2>
+        <p>Overview of Disease: Type 2 Diabetes is a chronic disease that affects the body's ability to use insulin well. This can cause high blood sugar levels, which over time, can damage nerves, eyes, kidneys, and other organs.</p>
+        <h3 class="font-bold mb-2">Key Indicators:</h3>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>High Glucose levels</li>
+            <li>High Hemoglobin A1c</li>
+        </ul>
+        <h3 class="font-bold mb-2">Exact Value for Patient:</h3>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>Glucose: 180 mg/dL (High - Reference: 65-139 mg/dL)</li>
+            <li>Hemoglobin A1c: 6.8% (High - Reference: &lt;5.7% of total Hgb)</li>
+        </ul>
+        <p>Approximately 86% individuals with similar lab reports have Diabetes type 2.</p>
+    </div>
+
+    <div class="rounded bg-red-200">
+        <h2 class="font-bold mb-2">Disease 2 - Dyslipidemia:</h2>
+        <p>Overview of Disease: Dyslipidemia is an abnormal amount of lipids in the blood. This is often characterized by high total cholesterol, high LDL cholesterol, low HDL cholesterol, and high triglyceride levels.</p>
+        <h3 class="font-bold mb-2">Key Indicators:</h3>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>High Total Cholesterol</li>
+            <li>High LDL-Cholesterol</li>
+            <li>Low HDL Cholesterol</li>
+            <li>High Triglycerides</li>
+        </ul>
+        <h3 class="font-bold mb-2">Exact Value for Patient:</h3>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>Cholesterol, Total: 210 mg/dL (Reference: &lt;170 mg/dL)</li>
+            <li>HDL Cholesterol: 35 mg/dL (Reference: &gt;45 mg/dL)</li>
+            <li>Triglycerides: 150 mg/dL (Reference: &lt;90 mg/dL)</li>
+            <li>LDL-Cholesterol: 160 mg/dL (Reference: &lt;110 mg/dL)</li>
+        </ul>
+        <p>About 79% individuals with similar lab reports have Dyslipidemia.</p>
+    </div>

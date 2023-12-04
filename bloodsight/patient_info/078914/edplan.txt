@@ -1,0 +1,14 @@
+<div class="space-y-4 p-2">
+    <div class="">
+        <h2 class="font-bold mb-3">Exercise Recommendations:</h2>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>Incorporate 150 minutes of moderate intensity aerobic activity into your weekly routines. This could include brisk walking, swimming, or biking.</li>
+            <li>In addition to aerobic exercise, include strength-training exercises 2 days per week, focusing on all major muscle groups.</li>
+            <li>Consider adding flexibility and balance exercises to your regime, including activities like yoga or pilates, to improve overall fitness and prevent injury.</li>
+        </ul>
+    </div>
+    
+    <div class="">
+        <h2 class="font-bold mb-3">Diet Recommendations:</h2>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>Limit intake of saturated fats, avoid trans fats, and maintain cholesterol levels. Considering your cholesterol is slightly high, aim for a diet rich in fruits, vegetables, lean proteins, and whole grains.</li

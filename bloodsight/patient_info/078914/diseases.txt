@@ -1,0 +1,33 @@
+<div class="space-y-4 p-2">
+    <div class="rounded bg-red-200">
+        <h2 class="font-bold mb-2">Disease- Hyperlipidemia:</h2>
+        <p>This is a condition in which there are high levels of fat particles (lipids) in the blood. These particles include cholesterol and triglycerides. It can lead to coronary artery disease, heart attack, stroke, and pancreatitis if left untreated.</p>
+        <h3 class="font-bold mb-2">Key Indicators & Exact Value:</h3>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>Total Cholesterol: 220 mg/dL (High, reference: < 200 mg/dL)</li>
+            <li>LDL Cholesterol: 150 mg/dL (High, reference: < 100 mg/dL)</li>
+            <li>Triglycerides: 250 mg/dL (High, reference: < 150 mg/dL)</li>
+        </ul>
+        <p>According to the National Institutes of Health, about one-third of American adults have a high LDL level, which is the main source of cholesterol buildup and artery blockage.</p>
+    </div>
+
+    <div class="rounded bg-red-200">
+        <h2 class="font-bold mb-2">Disease- Low HDL syndrome:</h2>
+        <p>HDL, or high-density lipoprotein, is the 'good' cholesterol. Its main function is to carry cholesterol from other parts of your body back to your liver where it's removed. If you have low HDL cholesterol levels, it means you have less 'good' cholesterol to remove LDL 'bad' cholesterol from your arteries.</p>
+        <h3 class="font-bold mb-2">Key Indicators & Exact Value:</h3>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>HDL Cholesterol: 45 mg/dL (Lower limit of normal, reference: > 50 mg/dL for females)</li>
+        </ul>
+        <p>Approximately 45% of the adult population in the United States has a low HDL, according to the Centers for Disease Control and Prevention (CDC).</p>
+    </div>
+
+    <div class="rounded bg-red-200">
+        <h2 class="font-bold mb-2">Disease- Metabolic Syndrome:</h2>
+        <p>This is a cluster of conditions that occur together, increasing your risk of heart disease, stroke, and type 2 diabetes. One of the conditions is high triglyceride levels.</p>
+        <h3 class="font-bold mb-2">Key Indicators & Exact Value:</h3>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>Triglycerides: 250 mg/dL (High, reference: < 150 mg/dL)</li>
+        </ul>
+        <p>More than a third of people in the United States are thought to have metabolic syndrome, the American Heart Association said.</p>
+    </div>
+</div>

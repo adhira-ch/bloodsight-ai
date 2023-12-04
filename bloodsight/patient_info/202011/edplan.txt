@@ -1,0 +1,22 @@
+<div class="space-y-4 p-2">
+    <!-- Exercise Recommendations -->
+    <div class="rounded bg-green-200">
+        <h2 class="font-bold mb-2">Exercise Recommendations:</h2>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>Engage in moderate-intensity cardiovascular activities, such as brisk walking or cycling, for at least 150 minutes per week to improve general health and cardiovascular fitness.</li>
+            <li>Incorporate strength training exercises at least twice a week to increase muscle mass and bone density.</li>
+            <li>Yoga and flexibility workouts can benefit mental health and improve the flexibility of joints and muscles, aim for 60-90 minutes across a week.</li>
+        </ul>
+    </div>
+
+    <!-- Diet Recommendations -->
+    <div class="rounded bg-green-200">
+        <h2 class="font-bold mb-2">Diet Recommendations:</h2>
+        <ul class="list-disc pl-5 space-y-2">
+            <li>For an active 19 years old, consider a balanced diet comprised of about 2000 to 2400 calories per day, rich in complex carbohydrates, lean proteins, and healthy fats.</li>
+            <li>Given your low Hemoglobin and Hematocrit levels, you should consume iron-rich foods like leafy greens, iron-fortified cereals, and lean meats to support red blood cell production.</li>
+            <li>Stay hydrated and include fruits and vegetables high in antioxidants and vitamins, also small amounts of dairy products for calcium are important as there are no indicators of lactose intolerance or dairy allergies, based on your blood report.</li>
+        </ul>
+    </div>
+
+</div>

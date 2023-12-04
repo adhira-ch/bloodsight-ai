@@ -1,0 +1,22 @@
+<div class="space-y-4 p-2">
+
+    <!-- Disease 1 - Anemia -->
+    <div class="rounded bg-red-200">
+        <h2 class="font-bold mb-2">Disease 1- Anemia:</h2>
+        <p>Anemia is a condition marked by a deficiency of red blood cells or of hemoglobin in the blood, resulting in paleness and fatigue. Key indicators in this case are low Hemoglobin and Hematocrit values (Hemoglobin: 11.0 g/dL < 12.0 g/dL, Hematocrit: 34% < 37%). About 10-30% of individuals with similar lab report values can be anemic.</p>
+    </div>
+
+    <!-- Disease 2 - Iron Deficiency -->
+    <div class="rounded bg-red-200">
+        <h2 class="font-bold mb-2">Disease 2- Iron Deficiency:</h2>
+        <p>Iron deficiency is a lack of iron in the body leading to the decreased production of hemoglobin. The key indicators are Hemoglobin, Hematocrit, and MCV values which appear low (Hemoglobin: 11.0 g/dL, Hematocrit: 34%, MCV: 86 fL), hence signaling a possible lack of iron in the body. Approximately 20-50% of individuals with similar lab results could be suffering from an iron deficiency.</p>
+    </div>
+
+    <!-- Disease 3 - General Fatigue Syndrome -->
+    <div class="rounded bg-yellow-200">
+        <h2 class="font-bold mb-2">Disease 3- General Fatigue Syndrome:</h2>
+        <p>Fatigue syndrome is a long-term disorder characterized mainly by extreme levels of fatigue that lasts six months or more, and that can't be fully explained by an underlying medical condition. Low Hemoglobin (11.0 g/dL) and Hematocrit (34%) pointing to anemia could explain a state of constant fatigue. Up to 10-20% individuals who share similar blood report figures fall into this category.</p>
+    </div>
+
+    <p class="mt-6 italic">Remember, these are possibilities based on the lab report and actual diagnosis may require further medical investigation. Keep in mind that correlation does not necessarily indicate causation, and these reports should be discussed with a healthcare professional.</p>
+</div>

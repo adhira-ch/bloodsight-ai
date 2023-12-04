@@ -1,0 +1,15 @@
+<div class="space-y-4 p-2">
+    <div class="rounded bg-blue-200">
+        <h2 class="font-bold mb-2">Exercise Recommendations:</h2>
+        <p>Considering your blood report, regular cardio exercise is recommended to help regulate your blood sugar level and improve your cholesterol. Attempt to get at least 150 minutes per week of moderate-intensity exercise, such as brisk walking or cycling.</p>
+        <p>Resistance or strength training exercises can also be beneficial. It is suggested to engage in these types of exercises at least two days a week for about 30 to 45 minutes each session, focusing on major muscle groups.</p>
+        <p>Flexibility exercises, such as yoga and stretching, can improve balance and muscle health. Aim for at least two sessions of 15 minutes each per week.</p>
+    </div>
+
+    <div class="rounded bg-blue-200">
+        <h2 class="font-bold mb-2">Dietary Recommendations:</h2>
+        <p>To manage your elevated glucose level and control cholesterol, a diet rich in fiber, whole grains, lean proteins, and a broad variety of colorful fruits and vegetables is strongly recommended. Avoid processed food, added sugars, and saturated fats.</p>
+        <p>Drink plenty of water and limit your intake of alcohol and beverages high in sugar. Opt for unsweetened drinks and herbal teas instead.</p>
+        <p>Your daily caloric intake should be around 2000 calories, depending on your physical activity level and overall health goal. However, it is advised to consult with a registered dietitian for personalized advice and meal plans.</p>
+    </div>
+</div>
